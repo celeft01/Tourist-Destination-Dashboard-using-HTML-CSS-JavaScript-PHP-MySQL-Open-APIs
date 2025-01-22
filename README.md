@@ -4,6 +4,11 @@ This repository contains a web-based dashboard that provides detailed informatio
 
 ---
 
+## URL
+https://www.cs.ucy.ac.cy/~celeft01/epl425
+
+---
+
 ## Features
 
 - **Interactive Map:** Visualize tourist destinations with markers displaying city and country information.
