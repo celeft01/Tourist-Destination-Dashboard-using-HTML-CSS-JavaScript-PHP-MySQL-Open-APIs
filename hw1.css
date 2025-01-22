@@ -1,0 +1,174 @@
+@media  (min-width: 320px) and (max-width: 480px) {
+    #results{
+        font-size: small;
+    }
+
+    #modal1{
+        font-size: small;
+    }
+    
+    #row12{
+      
+        margin: auto;
+    }
+    
+    h1{
+        font-size: x-large;
+        padding-top: 15%;
+        padding-bottom: 5%;
+        
+    }
+    
+    #div1{
+        width: 100%;
+    }
+    
+    #btn-col{
+    
+        padding-bottom: 15%;
+    
+    }
+    
+    #addressCol{
+    
+        margin-top:5%;
+    }
+    
+    #regionCol{
+        margin-top:-10%;
+    }
+    
+    #cityCol{
+        margin-top:-10%;
+    }
+    
+    #radiodiv{
+        margin-top:-10%;
+    }
+    
+    
+
+} 
+
+
+.backround{
+    background-image: url("sunset.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position:relative;
+}
+
+.modal-body{
+    text-align: center;
+}
+
+#current-tab-pane{
+    padding: 1%;
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+   }
+
+#myTabContent{
+    background-color: white;
+    text-align: center;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 0%;
+}
+
+#div1{
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin:auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 1%;
+    padding-right:1%;
+    border-radius: 10px;
+
+}
+
+
+.nav-tabs .nav-item .nav-link {
+    background-color: #0080FF;
+    color: #FFF;
+  }
+  
+.nav-tabs .nav-item .nav-link.active {
+    color: #0080FF;
+    background-color: white;
+}
+
+
+#icon{
+    
+    height: 100%;
+    width: 100%;
+    margin-left: 5%;
+    object-fit: contain;
+}
+
+#retable{
+    margin-top: -2%;
+}
+
+#results{
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+}
+
+#temp{
+    font-size: xx-large;
+}
+
+#card{
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom: 1%;
+}
+
+hr{
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#btn-col{
+    margin:auto;
+    margin-top:2%;
+    text-align: center;
+    
+}
+
+
+
+.mspan{
+    color:black;
+}
+
+#future-tab-pane{
+    padding: 1%;
+}
+
+
+
+span{
+    color:red;
+}
+
+.hiddenp{
+    font-size:small;
+    color:red;
+    opacity: 0;
+}
